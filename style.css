@@ -1,0 +1,18 @@
+.nav-bar-ah{
+    display: flex;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.nav-ah{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: auto;
+}
+.nav-link-ah{
+    display: flex;
+    flex-shrink: 0;
+    font-size: 1.3rem;
+}
